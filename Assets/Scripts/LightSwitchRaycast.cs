@@ -1,3 +1,9 @@
+// this script is to allow the player to interact with a lightswitch in the scene 
+// copywrite Caitlin Brockway 
+// find ReadMe on https://github.com/Caitlinb2021/Santa-Grotto
+
+
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
